@@ -1,4 +1,5 @@
+import { createAction } from 'redux-actions';
 import { INCREASE, DECREASE } from './types';
 
-export const increase = () => ({ type: INCREASE });
-export const decrease = () => ({ type: DECREASE });
+export const increase = createAction(INCREASE);
+export const decrease = createAction(DECREASE);
