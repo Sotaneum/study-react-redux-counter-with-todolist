@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "20a05bdb4316ef946bfc96c45465c253",
+    "revision": "48b2c46b429083ba6dff7123b0eba065",
     "url": "/study-react-redux-counter-with-todolist/index.html"
   },
   {
@@ -8,12 +8,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/study-react-redux-counter-with-todolist/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "8e5ce79050ffb9a63203",
-    "url": "/study-react-redux-counter-with-todolist/static/js/2.42afb092.chunk.js"
+    "revision": "db99a7456fc612b75f7a",
+    "url": "/study-react-redux-counter-with-todolist/static/js/2.61020f00.chunk.js"
   },
   {
     "revision": "9b318b6fb13190fe82c0677e9264b3c7",
-    "url": "/study-react-redux-counter-with-todolist/static/js/2.42afb092.chunk.js.LICENSE.txt"
+    "url": "/study-react-redux-counter-with-todolist/static/js/2.61020f00.chunk.js.LICENSE.txt"
   },
   {
     "revision": "6de64d9e7cbaf6128ba0",
