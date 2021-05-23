@@ -7,13 +7,13 @@ const initialState = {
   todos: [
     {
       id: 1,
-      text: '리덕스 기초 배우기',
       done: true,
+      text: '리덕스 기초 배우기',
     },
     {
       id: 2,
-      text: '리액트와 리덕스 사용하기',
       done: false,
+      text: '리액트와 리덕스 사용하기',
     },
   ],
 };

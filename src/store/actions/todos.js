@@ -5,8 +5,8 @@ export const changeInput = createAction(CHANGE_INPUT, (input) => input);
 
 let id = 3;
 export const insert = createAction(INSERT, (text) => ({
-  id: id++,
   text,
+  id: id++,
   done: false,
 }));
 

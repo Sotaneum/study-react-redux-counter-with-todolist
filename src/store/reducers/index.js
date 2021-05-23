@@ -3,8 +3,8 @@ import todos from './todos';
 import counter from './counter';
 
 const rootReducer = combineReducers({
-  counter,
   todos,
+  counter,
 });
 
 export default rootReducer;
